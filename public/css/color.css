@@ -1,0 +1,22 @@
+.bg-primary {
+    background-color: #F9A826 !important;
+}
+
+.text-primary {
+    color: #F9A826 !important;
+}
+
+
+/* .text-primary:hover {
+    color: #fff !important;
+} */
+
+.active {
+    background-color: #F9A826 !important;
+    color: #fff !important;
+}
+
+
+/* .bg-primary:hover {
+    background-color: #ec6d99;
+} */
